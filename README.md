@@ -14,6 +14,7 @@ I’m especially interested in customer-facing B2C products, growth and monetisa
 - **[Chronic-care onboarding](https://amanthesyed.github.io/#deep-work)** — a condition-led first-login journey designed to connect chronic-care customers to a more relevant commerce path.
 - **[Growth and revenue work](https://amanthesyed.github.io/#growth)** — conversion, engagement, loyalty, and revenue opportunity models. Projections are labelled as modelled, not as realised lift.
 - **[AI and automation](https://amanthesyed.github.io/#automation)** — agent workflows with explicit routing, human review, and action boundaries.
+- **[Working demos](https://amanthesyed.github.io/#working-demos)** — try the chronic-care onboarding flow, growth experiment economics calculator, and support action router; inspect each implementation in the portfolio repository.
 - **[Engineering projects](https://amanthesyed.github.io/#engineering)** — integrations, data flows, and operational automation.
 
 ## How I approach product work
